@@ -1,0 +1,2 @@
+start npm init -y
+npx create-react-app client  activates react and adds client folder, create a backend folder to have server.js running
